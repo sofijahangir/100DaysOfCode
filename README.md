@@ -1,6 +1,6 @@
 # 100-Days-Of-Code
-# today-i-learned  
-#### Repo of stuff I picked up  
+<!-- # today-i-learned   -->
+<!-- #### Repo of stuff I picked up   -->
 ---  
 ## Day 1
 >`indexOf()`  
